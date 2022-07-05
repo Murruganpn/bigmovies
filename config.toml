@@ -82,7 +82,7 @@ body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. 
 
 [[params.two.section]]
 img = "img/pic03.jpg"
-title = 'Magna primis lobortis<br />sed ullamcorper'
+title = 'Tamil primis lobortis<br />sed ullamcorper'
 body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
 
 [params.three]
@@ -142,9 +142,9 @@ special = false
 enable = true
 title = "Contact"
 body = "Leave us a message."
-phone = "+91 9445 415 843"
-address = "Chennai,<br />Tamil Nadu, <br />India 603103"
-email = "murruganpn@gmail.com"
+phone = "+91 9597 777 789"
+address = "Chennai,<br />Tamil Nadu, <br />India 600115"
+email = "murruganpn1@bigmovie.in"
 subject = "New Submission!"
 plain = false
 
