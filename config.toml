@@ -71,56 +71,55 @@ label = "Lorem"
 enable = true
 
 [[params.two.section]]
-img = "img/pic01.jpg"
+img = "img/vikram.jpg"
 title = 'Vikram<br /> Multilingual movie'
 body = 'A classic Kamal movie, a story about crusade against drug peddlars.'
 
 [[params.two.section]]
-img = "img/pic02.jpg"
-title = 'Tortor dolore feugiat<br />elementum magna'
-body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
+img = "img/film.jpg"
+title = 'Motion Pictures<br />Production Management'
+body = 'Producing, Managing and Distribution of films.'
 
 [[params.two.section]]
-img = "img/pic03.jpg"
-title = 'Tamil primis lobortis<br />sed ullamcorper'
-body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
+img = "img/sonyliv.jpg"
+title = 'OTT - Over the Top<br />Streaming of films'
+body = 'SonyLiv Aggregator.'
 
 [params.three]
 enable = true
-title = 'Accumsan mus tortor nunc aliquet'
+title = 'Think Script Action Release'
 body = '''
-Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend  
-fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.
+Produce Film Content Better, Smarter, Together..
 '''
 
 [[params.three.feature]]
 icon = "fa-paper-plane-o"
-title = "Arcu accumsan"
+title = "Producer"
 body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
 
 [[params.three.feature]]
 icon = "fa-laptop"
-title = "Ac Augue Eget"
+title = "Aggregator"
 body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
 
 [[params.three.feature]]
 icon = "fa-code"
-title = "Foo bar"
+title = "Financing"
 body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
 
 [[params.three.feature]]
 icon = "fa-headphones"
-title = "Baz kram"
+title = "Digital Marketing"
 body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
 
 [[params.three.feature]]
 icon = "fa-heart-o"
-title = "Some latin text"
+title = "Creative Arts & Design"
 body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
 
 [[params.three.feature]]
 icon = "fa-flag-o"
-title = "Nothing important"
+title = "Television Media"
 body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
 
 [params.cta]

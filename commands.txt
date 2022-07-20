@@ -1,0 +1,9 @@
+cd \bigmovies
+
+hugo server
+
+Edit files, and give below commands
+
+git add .
+git commit -m "Changes"
+git push -u origin master
