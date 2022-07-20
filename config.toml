@@ -8,7 +8,7 @@ theme = "spectral"
 [params]
 fancyTitle = "Big Movies" # title for frontpage, may include image
 copyright = "bigmovie.in"
-description = 'Entertainment for your Soul <br /><br /><a href="https://bigmovie.in">BIG Movies, </a> - We create, You Applaud<br /><br />Showcased to You,<a href="https://bigmovie.in"></a> by Cine Artists.'
+description = 'Entertainment for your Soul <br /><br /><a href="https://bigmovie.in">BIG Movies</a> - We create, You Applaud<br /><br />Showcased to You,<a href="https://bigmovie.in"></a> by Cine Artists.'
 startbuttonText = "Enjoy"
 startbuttonLink = "#"
 body_is_markdown = true
