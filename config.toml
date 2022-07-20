@@ -8,7 +8,7 @@ theme = "spectral"
 [params]
 fancyTitle = "Big Movies" # title for frontpage, may include image
 copyright = "bigmovie.in"
-description = 'Entertainment for your Soul <br /><br />screened by <a href="https://bigmovie.in">BIG Movies, </a><br /><br />Showcased to You,<a href="https://bigmovie.in"></a> by Cine Artists.'
+description = 'Entertainment for your Soul <br /><br /><a href="https://bigmovie.in">BIG Movies, </a> - We create, You Applaud<br /><br />Showcased to You,<a href="https://bigmovie.in"></a> by Cine Artists.'
 startbuttonText = "Enjoy"
 startbuttonLink = "#"
 body_is_markdown = true
@@ -95,12 +95,12 @@ Produce Film Content Better, Smarter, Together..
 [[params.three.feature]]
 icon = "fa-paper-plane-o"
 title = "Producer"
-body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
+body = "We help you to find and launch a film; arrange the film's finance; hire screenwriters, a director, and key members of the creative team; and oversee all elements of pre-production, production, and post-production, right up to the film's release."
 
 [[params.three.feature]]
 icon = "fa-laptop"
 title = "Aggregator"
-body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
+body = "We as a company help to distribute your film and visual content to streaming platforms like SonyLiv, Netflix, Disney Hotstar, Amazon, Jio and MX player."
 
 [[params.three.feature]]
 icon = "fa-code"
